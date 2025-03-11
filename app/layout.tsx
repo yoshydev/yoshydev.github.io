@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     description: "nya~n",
     images: [
       {
-        url: "/images/opengraph-image.png",
+        url: "https://uniu.moe/images/opengraph-image.png",
         width: 1200,
         height: 630,
         alt: "uniu.moe",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "uniu.moe",
     description: "nya~n",
-    images: [ "/images/opengraph-image.png" ], // または別のOGP用画像パス
+    images: [ "https://uniu.moe/images/opengraph-image.png" ], // または別のOGP用画像パス
     creator: "@yuniuiui",
   },
 };
