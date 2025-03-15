@@ -60,7 +60,7 @@ export default function RootLayout({
     >
       <Header />
       <Background />
-      <div className="container mx-auto p-8 pt-40 pb-20">
+      <div className="container mx-auto pt-20 pb-20">
         {children}
       </div>
     </ThemeProvider>
